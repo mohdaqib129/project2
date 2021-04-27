@@ -1,6 +1,6 @@
-FOOD BLOG
+Adventure Diary
 
-“FOOD BLOG ” is a Website for our Mini Project -2 given during session 2021-2022 in 3rd year 6th semester under the Mentorship of Pankaj Kapoor sir.
+“Adventure Diary” is a Website for our Mini Project -2 given during session 2021-2022 in 3rd year 6th semester under the Mentorship of Pankaj Kapoor sir.
 
 Project Meetings:-
 Date - 26/02/2021
